@@ -1,0 +1,4 @@
+video-extensions: .mkv,.mp4,.wmv,.flv
+logo: logo.png
+base-path: F:\test
+archive-path: F:\
